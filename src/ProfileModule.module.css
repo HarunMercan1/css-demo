@@ -1,0 +1,7 @@
+.card {
+  border: 2px dashed blue;
+  padding: 20px;
+  width: 300px;
+  text-align: center;
+  margin: 20px;
+}
